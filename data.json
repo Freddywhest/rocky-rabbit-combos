@@ -1,5 +1,18 @@
 {
-  "enigma": ["a", "b", "c"],
-  "cards": [],
-  "date": "21/12/2023"
+  "enigma": [
+    "caught",
+    "twin",
+    "enact",
+    "awesome",
+    "slogan",
+    "emotion",
+    "goose",
+    "route",
+    "lend",
+    "trigger",
+    "gown",
+    "fossil"
+  ],
+  "cards": ["morning_fighter", "venture_capital_investments", "punches_coach"],
+  "expireAtForCards": "2024-08-12T08:10:06.000Z"
 }
