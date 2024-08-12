@@ -1,18 +1,22 @@
 {
   "enigma": [
-    "caught",
-    "twin",
-    "enact",
-    "awesome",
-    "slogan",
-    "emotion",
-    "goose",
-    "route",
-    "lend",
-    "trigger",
-    "gown",
-    "fossil"
+    "inner",
+    "color",
+    "matter",
+    "solid",
+    "merge",
+    "ridge",
+    "sniff",
+    "anger",
+    "puppy",
+    "tape",
+    "page",
+    "area"
   ],
-  "cards": ["morning_fighter", "venture_capital_investments", "punches_coach"],
+  "cards": [
+    "developing_a_signature_product_line",
+    "strength_training_coach",
+    "morning_fighter"
+  ],
   "expireAtForCards": "2024-08-12T08:10:06.000Z"
 }
