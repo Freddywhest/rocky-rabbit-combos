@@ -1,22 +1,18 @@
 {
   "enigma": [
-    "drum",
-    "sausage",
-    "dance",
-    "fold",
-    "task",
-    "ivory",
-    "question",
-    "bind",
-    "tower",
-    "what",
-    "arena",
-    "just"
+    "document",
+    "congress",
+    "guard",
+    "awesome",
+    "endorse",
+    "wish",
+    "utility",
+    "grab",
+    "school",
+    "office",
+    "sound",
+    "hair"
   ],
-  "cards": [
-    "hosting_branded_fitness_events",
-    "motivation_and_support_coach",
-    "evaluating_progress_coach"
-  ],
-  "expireAtForCards": "2024-08-14T08:10:06.000Z"
+  "cards": ["manager", "insurance_planning", "pad_work_coach"],
+  "expireAtForCards": "2024-08-16T08:10:06.000Z"
 }
