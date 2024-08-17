@@ -1,22 +1,22 @@
 {
   "enigma": [
-    "rival",
-    "evolve",
-    "improve",
-    "armed",
-    "audit",
-    "cup",
-    "crater",
-    "brand",
-    "add",
-    "fame",
-    "hazard",
-    "twelve"
+    "street",
+    "solid",
+    "board",
+    "street",
+    "ceiling",
+    "cotton",
+    "alone",
+    "arena",
+    "best",
+    "pact",
+    "suspect",
+    "rhythm"
   ],
   "cards": [
-    "strength_and_endurance_training_fighter",
-    "afterworkout_fighter",
-    "league_8"
+    "mental_training_fighter",
+    "technical_training_coach",
+    "blocking_coach"
   ],
-  "expireAtForCards": "2024-08-17T08:10:06.000Z"
+  "expireAtForCards": "2024-08-18T08:10:06.000Z"
 }
