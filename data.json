@@ -1,22 +1,18 @@
 {
   "enigma": [
-    "street",
-    "solid",
-    "board",
-    "street",
-    "ceiling",
-    "cotton",
-    "alone",
-    "arena",
-    "best",
-    "pact",
-    "suspect",
-    "rhythm"
+    "slice",
+    "erosion",
+    "reward",
+    "chief",
+    "used",
+    "join",
+    "gas",
+    "sell",
+    "tail",
+    "lion",
+    "army",
+    "runway"
   ],
-  "cards": [
-    "mental_training_fighter",
-    "technical_training_coach",
-    "blocking_coach"
-  ],
-  "expireAtForCards": "2024-08-18T08:10:06.000Z"
+  "cards": ["league_1", "technical_training_fighter", "jump_rope_fighter"],
+  "expireAtForCards": "2024-08-19T08:10:06.000Z"
 }
