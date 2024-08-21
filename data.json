@@ -1,20 +1,24 @@
 {
   "enigma": [
-    "hidden",
-    "violin",
-    "roast",
-    "strong",
-    "alien",
-    "donor",
-    "victory",
-    "net",
-    "gain",
-    "album",
-    "jaguar",
-    "aunt"
+    "pave",
+    "modify",
+    "pair",
+    "later",
+    "burst",
+    "trash",
+    "silly",
+    "company",
+    "antique",
+    "grunt",
+    "gesture",
+    "addict"
   ],
-  "cards": ["running_fighter", "kicks_coach", "tactical_training_coach"],
-  "easter": "8a70a6729e3972fd7d4b9ca848251c23cbd484a6245367bf477f93d51d209afc",
-  "expireAtForCards": "2024-08-21T07:58:06.000Z",
-  "expireAtForEaster": "2024-08-20T23:58:00.000Z"
+  "cards": [
+    "lunchbreak_fighter",
+    "real_estate_investment",
+    "prevention_counterattacks_coach"
+  ],
+  "easter": "da3311244b322e7d4d06fc62bc1192ff0952f023293cc3679709287d04d8fae8",
+  "expireAtForCards": "2024-08-22T07:58:06.000Z",
+  "expireAtForEaster": "2024-08-21T23:58:00.000Z"
 }
