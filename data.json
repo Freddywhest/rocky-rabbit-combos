@@ -1,24 +1,20 @@
 {
   "enigma": [
-    "rice",
-    "audit",
-    "glow",
-    "ankle",
-    "truck",
-    "find",
-    "whale",
-    "great",
-    "dilemma",
-    "liquid",
-    "audit",
-    "balcony"
+    "lesson",
+    "rural",
+    "badge",
+    "job",
+    "live",
+    "grief",
+    "arm",
+    "glory",
+    "lottery",
+    "august",
+    "estate",
+    "august"
   ],
-  "cards": [
-    "afternoon_fighter",
-    "stretching_fighter",
-    "physical_training_coach"
-  ],
-  "easter": "7c8d3812ccca53b860f9199acb49e71aa37a2792af2768c6d390ca7e35c45363",
-  "expireAtForCards": "2024-08-26T07:58:06.000Z",
-  "expireAtForEaster": "2024-08-25T23:58:00.000Z"
+  "cards": ["league_5", "league_10", "flexibility_training_fighter"],
+  "easter": "75f8c4492bb031dcfd47542ea7b3009fc8b089c4cfa1c1af2a90756896ebf5f9",
+  "expireAtForCards": "2024-08-28T07:58:06.000Z",
+  "expireAtForEaster": "2024-08-27T23:58:00.000Z"
 }
