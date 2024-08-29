@@ -1,20 +1,24 @@
 {
   "enigma": [
-    "twin",
-    "prison",
-    "wide",
-    "cinnamon",
-    "crater",
-    "fuel",
-    "leader",
-    "all",
-    "advice",
-    "silent",
-    "talk",
-    "sentence"
+    "vault",
+    "chicken",
+    "noble",
+    "loan",
+    "erode",
+    "series",
+    "special",
+    "cousin",
+    "economy",
+    "spare",
+    "outer",
+    "brick"
   ],
-  "cards": ["league_1", "league_3", "sparring_coach_daily"],
-  "easter": "983a760315da3e8dc346c8e174a24133daf191f9ccd26d969efc27540d23bda8",
-  "expireAtForCards": "2024-08-29T07:58:06.000Z",
-  "expireAtForEaster": "2024-08-28T23:58:00.000Z"
+  "cards": [
+    "league_7",
+    "jump_rope_fighter",
+    "developing_a_signature_product_line"
+  ],
+  "easter": "a94d034b52be3bf72eeecfbb32e4b98e622ac7c6d9336a27802d0e3d2daeda2a",
+  "expireAtForCards": "2024-08-30T07:58:06.000Z",
+  "expireAtForEaster": "2024-08-29T23:58:00.000Z"
 }
