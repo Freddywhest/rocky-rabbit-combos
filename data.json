@@ -1,24 +1,24 @@
 {
   "enigma": [
-    "vault",
-    "chicken",
-    "noble",
-    "loan",
-    "erode",
-    "series",
-    "special",
-    "cousin",
-    "economy",
-    "spare",
-    "outer",
-    "brick"
+    "need",
+    "border",
+    "unknown",
+    "castle",
+    "polar",
+    "average",
+    "already",
+    "polar",
+    "device",
+    "welcome",
+    "bar",
+    "title"
   ],
   "cards": [
-    "league_7",
-    "jump_rope_fighter",
-    "developing_a_signature_product_line"
+    "dodging_coach",
+    "strength_training_coach",
+    "endurance_training_fighter"
   ],
-  "easter": "a94d034b52be3bf72eeecfbb32e4b98e622ac7c6d9336a27802d0e3d2daeda2a",
-  "expireAtForCards": "2024-08-30T07:58:06.000Z",
-  "expireAtForEaster": "2024-08-29T23:58:00.000Z"
+  "easter": "c0cd901ca57aca698d27c9c1c5e5284911aa351490a9e24813ed1583d1d962c5",
+  "expireAtForCards": "2024-08-31T07:58:06.000Z",
+  "expireAtForEaster": "2024-08-30T23:58:00.000Z"
 }
