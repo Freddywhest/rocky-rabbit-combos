@@ -1,24 +1,24 @@
 {
   "enigma": [
-    "need",
-    "border",
-    "unknown",
-    "castle",
-    "polar",
-    "average",
-    "already",
-    "polar",
-    "device",
-    "welcome",
-    "bar",
-    "title"
+    "sunset",
+    "radio",
+    "they",
+    "special",
+    "brave",
+    "melt",
+    "twice",
+    "day",
+    "battle",
+    "verb",
+    "cattle",
+    "jump"
   ],
   "cards": [
-    "dodging_coach",
-    "strength_training_coach",
-    "endurance_training_fighter"
+    "mental_training_fighter",
+    "technical_training_coach",
+    "blocking_coach"
   ],
-  "easter": "c0cd901ca57aca698d27c9c1c5e5284911aa351490a9e24813ed1583d1d962c5",
-  "expireAtForCards": "2024-08-31T07:58:06.000Z",
-  "expireAtForEaster": "2024-08-30T23:58:00.000Z"
+  "easter": "0aba546b1928beca0c0eea46b4939be63ace19fb75692dcb70a7559cfbf02715",
+  "expireAtForCards": "2024-09-01T07:58:06.000Z",
+  "expireAtForEaster": "2024-08-31T23:58:00.000Z"
 }
