@@ -1,24 +1,20 @@
 {
   "enigma": [
-    "sunset",
-    "radio",
-    "they",
-    "special",
-    "brave",
-    "melt",
-    "twice",
-    "day",
-    "battle",
-    "verb",
-    "cattle",
-    "jump"
+    "detail",
+    "sketch",
+    "tribe",
+    "life",
+    "bind",
+    "mechanic",
+    "lens",
+    "athlete",
+    "present",
+    "pool",
+    "report",
+    "tag"
   ],
-  "cards": [
-    "mental_training_fighter",
-    "technical_training_coach",
-    "blocking_coach"
-  ],
-  "easter": "0aba546b1928beca0c0eea46b4939be63ace19fb75692dcb70a7559cfbf02715",
-  "expireAtForCards": "2024-09-01T07:58:06.000Z",
-  "expireAtForEaster": "2024-08-31T23:58:00.000Z"
+  "cards": ["yoga_pilates_coach", "flexibility_training_coach", "league_4"],
+  "easter": "1c92432e5069336aecc73f9b6106a957c1aa12d80a70681f094115b039294722",
+  "expireAtForCards": "2024-09-02T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-01T23:58:00.000Z"
 }
