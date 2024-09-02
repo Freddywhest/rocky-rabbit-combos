@@ -1,20 +1,26 @@
 {
   "enigma": [
-    "detail",
-    "sketch",
-    "tribe",
-    "life",
-    "bind",
-    "mechanic",
-    "lens",
-    "athlete",
-    "present",
-    "pool",
-    "report",
-    "tag"
+    "siren",
+    "print",
+    "cricket",
+    "where",
+    "blame",
+    "just",
+    "ramp",
+    "crater",
+    "caught",
+    "notice",
+    "since",
+    "sentence"
   ],
-  "cards": ["yoga_pilates_coach", "flexibility_training_coach", "league_4"],
-  "easter": "1c92432e5069336aecc73f9b6106a957c1aa12d80a70681f094115b039294722",
-  "expireAtForCards": "2024-09-02T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-01T23:58:00.000Z"
+  "timefarm": "13/07/2017",
+  "cards": [
+    "real_estate_investment",
+    "combination_training_coach",
+    "tactical_training_coach"
+  ],
+  "easter": "40caf96ed3a367c51500f41f82d946a2a7b75a7063d9c4b3084ff2f2b0344ea0",
+  "expireAtForCards": "2024-09-03T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-02T23:58:00.000Z",
+  "timeFarmDate": "2024-09-02"
 }
