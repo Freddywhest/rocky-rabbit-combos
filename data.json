@@ -1,26 +1,26 @@
 {
   "enigma": [
-    "siren",
-    "print",
-    "cricket",
-    "where",
-    "blame",
-    "just",
-    "ramp",
-    "crater",
-    "caught",
-    "notice",
-    "since",
-    "sentence"
+    "pulse",
+    "kick",
+    "expand",
+    "reward",
+    "public",
+    "brief",
+    "enlist",
+    "double",
+    "adjust",
+    "survey",
+    "antique",
+    "own"
   ],
-  "timefarm": "13/07/2017",
+  "timefarm": "28/10/2016",
   "cards": [
-    "real_estate_investment",
-    "combination_training_coach",
-    "tactical_training_coach"
+    "strength_and_endurance_training_fighter",
+    "teaching_basic_techniques_coach",
+    "lunchbreak_fighter"
   ],
-  "easter": "40caf96ed3a367c51500f41f82d946a2a7b75a7063d9c4b3084ff2f2b0344ea0",
-  "expireAtForCards": "2024-09-03T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-02T23:58:00.000Z",
-  "timeFarmDate": "2024-09-02"
+  "easter": "aa32d65ec142d2dba513309d42534bfe76f2536f8cfb7cebac9991e4cb59c5a3",
+  "expireAtForCards": "2024-09-04T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-03T23:58:00.000Z",
+  "timeFarmDate": "2024-09-03"
 }
