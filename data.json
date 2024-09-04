@@ -1,26 +1,26 @@
 {
   "enigma": [
-    "pulse",
-    "kick",
-    "expand",
-    "reward",
-    "public",
-    "brief",
-    "enlist",
-    "double",
-    "adjust",
-    "survey",
-    "antique",
-    "own"
+    "fade",
+    "bring",
+    "legend",
+    "census",
+    "destroy",
+    "foam",
+    "rare",
+    "emerge",
+    "blast",
+    "bonus",
+    "medal",
+    "move"
   ],
-  "timefarm": "28/10/2016",
+  "timefarm": "30/03/2020",
   "cards": [
-    "strength_and_endurance_training_fighter",
-    "teaching_basic_techniques_coach",
-    "lunchbreak_fighter"
+    "league_8",
+    "offering_nutrition_consulting",
+    "shadowboxing_fighter"
   ],
-  "easter": "aa32d65ec142d2dba513309d42534bfe76f2536f8cfb7cebac9991e4cb59c5a3",
-  "expireAtForCards": "2024-09-04T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-03T23:58:00.000Z",
-  "timeFarmDate": "2024-09-03"
+  "easter": "f255a28210cefe71879571b352702ea859a6f45ea03dd099efa2bdba509c52cd",
+  "expireAtForCards": "2024-09-05T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-04T23:58:00.000Z",
+  "timeFarmDate": "2024-09-04"
 }
