@@ -1,26 +1,26 @@
 {
   "enigma": [
-    "fade",
-    "bring",
-    "legend",
-    "census",
-    "destroy",
-    "foam",
-    "rare",
-    "emerge",
-    "blast",
-    "bonus",
-    "medal",
-    "move"
+    "robot",
+    "fiction",
+    "enter",
+    "where",
+    "cube",
+    "obey",
+    "ecology",
+    "remove",
+    "swamp",
+    "mechanic",
+    "capital",
+    "laundry"
   ],
-  "timefarm": "30/03/2020",
+  "timefarm": "24/08/2017",
   "cards": [
-    "league_8",
-    "offering_nutrition_consulting",
-    "shadowboxing_fighter"
+    "yoga_pilates_fighter",
+    "beforeworkout_fighter",
+    "speaking_at_fitness_conferences"
   ],
-  "easter": "f255a28210cefe71879571b352702ea859a6f45ea03dd099efa2bdba509c52cd",
-  "expireAtForCards": "2024-09-05T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-04T23:58:00.000Z",
-  "timeFarmDate": "2024-09-04"
+  "easter": "280cbcb0bac8df75a56c73546d48f354da0e5e2fc19e9096d186caabbe29ac90",
+  "expireAtForCards": "2024-09-06T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-05T23:58:00.000Z",
+  "timeFarmDate": "2024-09-05"
 }
