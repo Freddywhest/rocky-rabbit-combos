@@ -1,26 +1,22 @@
 {
   "enigma": [
-    "almost",
-    "story",
-    "memory",
-    "march",
-    "material",
-    "bracket",
-    "fancy",
-    "admit",
-    "island",
-    "innocent",
-    "vintage",
-    "else"
+    "stereo",
+    "whisper",
+    "omit",
+    "prepare",
+    "alter",
+    "drip",
+    "country",
+    "bullet",
+    "general",
+    "stumble",
+    "insane",
+    "exact"
   ],
-  "timefarm": "01/07/2016",
-  "cards": [
-    "youtube_channel_creation",
-    "developing_a_nutrition_brand",
-    "sparring_coach_daily"
-  ],
-  "easter": "f81208361e3d840a13dc8a2ec74a7b1aaec6cfb5bc1e8d139e3f2d495d45dcc9",
-  "expireAtForCards": "2024-09-07T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-06T23:58:00.000Z",
-  "timeFarmDate": "2024-09-06"
+  "timefarm": "07/04/2017",
+  "cards": ["dinner_fighter", "sponsorship_deals", "evaluating_progress_coach"],
+  "easter": "c69546f64d78c6d6fbf8e0ff5c28a4930628fda738eb2d2b5d4cc392b2fad5d7",
+  "expireAtForCards": "2024-09-08T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-07T23:58:00.000Z",
+  "timeFarmDate": "2024-09-07"
 }
