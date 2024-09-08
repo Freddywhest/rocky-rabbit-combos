@@ -1,22 +1,26 @@
 {
   "enigma": [
-    "stereo",
-    "whisper",
-    "omit",
-    "prepare",
-    "alter",
-    "drip",
-    "country",
-    "bullet",
-    "general",
-    "stumble",
-    "insane",
-    "exact"
+    "earth",
+    "siege",
+    "item",
+    "artwork",
+    "day",
+    "master",
+    "achieve",
+    "genuine",
+    "stomach",
+    "transfer",
+    "finger",
+    "consider"
   ],
-  "timefarm": "07/04/2017",
-  "cards": ["dinner_fighter", "sponsorship_deals", "evaluating_progress_coach"],
+  "timefarm": "27/05/2020",
+  "cards": [
+    "afternoon_fighter",
+    "afterworkout_fighter",
+    "competition_preparation_coach"
+  ],
   "easter": "c69546f64d78c6d6fbf8e0ff5c28a4930628fda738eb2d2b5d4cc392b2fad5d7",
-  "expireAtForCards": "2024-09-08T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-07T23:58:00.000Z",
-  "timeFarmDate": "2024-09-07"
+  "expireAtForCards": "2024-09-09T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-08T23:58:00.000Z",
+  "timeFarmDate": "2024-09-08"
 }
