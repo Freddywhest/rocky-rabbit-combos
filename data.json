@@ -1,26 +1,22 @@
 {
   "enigma": [
-    "earth",
-    "siege",
-    "item",
-    "artwork",
-    "day",
-    "master",
-    "achieve",
-    "genuine",
-    "stomach",
-    "transfer",
-    "finger",
-    "consider"
+    "gauge",
+    "stuff",
+    "bind",
+    "gym",
+    "tourist",
+    "local",
+    "seat",
+    "pepper",
+    "gasp",
+    "grit",
+    "globe",
+    "mad"
   ],
-  "timefarm": "27/05/2020",
-  "cards": [
-    "afternoon_fighter",
-    "afterworkout_fighter",
-    "competition_preparation_coach"
-  ],
-  "easter": "c69546f64d78c6d6fbf8e0ff5c28a4930628fda738eb2d2b5d4cc392b2fad5d7",
-  "expireAtForCards": "2024-09-09T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-08T23:58:00.000Z",
-  "timeFarmDate": "2024-09-08"
+  "timefarm": "21/07/2019",
+  "cards": ["league_7", "venture_capital_investments", "weightlifting_fighter"],
+  "easter": "26e63d75628dcfdf8db8020ea763fa9774a500568182fb8da257f6c599ce6560",
+  "expireAtForCards": "2024-09-11T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-09T23:58:00.000Z",
+  "timeFarmDate": "2024-09-09"
 }
