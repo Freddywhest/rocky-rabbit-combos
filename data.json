@@ -13,10 +13,10 @@
     "kind",
     "second"
   ],
-  "timefarm": "21/07/2019",
-  "cards": ["league_7", "venture_capital_investments", "weightlifting_fighter"],
-  "easter": "26e63d75628dcfdf8db8020ea763fa9774a500568182fb8da257f6c599ce6560",
-  "expireAtForCards": "2024-09-11T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-09T23:58:00.000Z",
-  "timeFarmDate": "2024-09-09"
+  "timefarm": "23/09/2016",
+  "cards": ["financial_planning", "appearances_on_tv_shows", "punches_coach"],
+  "easter": "a28ae54b6597afc85338f8706f5160c8b7dd0a59c822f5fac98c96d071fa8ab8",
+  "expireAtForCards": "2024-09-15T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-15T23:58:00.000Z",
+  "timeFarmDate": "2024-09-14"
 }
