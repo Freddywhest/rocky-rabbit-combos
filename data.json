@@ -1,26 +1,22 @@
 {
   "enigma": [
-    "estate",
-    "room",
-    "file",
-    "manage",
-    "enough",
-    "fatal",
-    "horror",
-    "devote",
-    "used",
-    "slight",
-    "receive",
-    "slow"
+    "essay",
+    "giggle",
+    "brave",
+    "diet",
+    "glare",
+    "peace",
+    "dust",
+    "cool",
+    "tuition",
+    "peace",
+    "lawsuit",
+    "nominee"
   ],
-  "timefarm": "02/11/2018",
-  "cards": [
-    "advanced_stretching_fighter",
-    "technical_training_fighter",
-    "bag_work_coach"
-  ],
-  "easter": "2fc2574a2bcae05cbe42606dc62b3124541296d38d789baddbe2d0eb76a06cea",
-  "expireAtForCards": "2024-09-16T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-15T23:58:00.000Z",
-  "timeFarmDate": "2024-09-15"
+  "timefarm": "06/10/2014",
+  "cards": ["league_9", "pad_work_coach", "stretching_exercises_coach"],
+  "easter": "1517d1ee57c778c36cc394e3abc8a8a3bc562cf5fbd7f2dd1578a0b2d4bffc2d",
+  "expireAtForCards": "2024-09-17T07:58:06.000Z",
+  "expireAtForEaster": "2024-09-16T23:58:00.000Z",
+  "timeFarmDate": "2024-09-16"
 }
