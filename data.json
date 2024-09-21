@@ -1,23 +1,6 @@
 {
-  "enigma": [
-    "embrace",
-    "calm",
-    "lava",
-    "brand",
-    "resemble",
-    "board",
-    "mountain",
-    "what",
-    "photo",
-    "endless",
-    "assume",
-    "coconut"
-  ],
   "timefarm": "19/11/2015",
-  "cards": ["nutrition_fighter", "morning_fighter", "beforebed_fighter"],
-  "easter": "64e041ac1a064c5395454d206a093e8b53be23731aa75ea4d17537384326d393",
-  "expireAtForCards": "2024-09-18T07:58:06.000Z",
-  "expireAtForEaster": "2024-09-17T23:58:00.000Z",
   "timeFarmDate": "2024-09-18",
-  "vertusCodes": "3412"
+  "vertusCodes": "3223",
+  "vertusDate": "2024-09-21"
 }
